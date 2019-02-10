@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1545138297 source:f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	"Activations.h"
+	<fstream>
+	"CharGenerate.h"
+
+1545138881 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\neuralnetwork.h
+	"Matrix.h"
+	"Dictionary.h"
+	"layer.h"
+
+1543933230 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\matrix.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<math.h>
+
+1543677312 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\dictionary.h
+	<iostream>
+	<string>
+	<process.h>
+	<conio.h>
+	<list>
+	<vector>
+
+1543877008 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\layer.h
+	<string>
+
+1545138329 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\activations.h
+	"Matrix.h"
+
+1543677352 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\chargenerate.h
+	<string>
+
+1545137063 source:f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\main.cpp
+	"DATASET.h"
+	"InputOutput.h"
+	"NeuralNetwork.h"
+
+1543676856 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\dataset.h
+	"Matrix.h"
+
+1543677272 f:\college\4th year - 1st semster\graduation projcet\codes\neuralnetworkmodel v4.2\inputoutput.h
+	"Matrix.h"
+
